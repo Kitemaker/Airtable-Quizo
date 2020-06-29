@@ -7,7 +7,7 @@ import Picture from './Picture';
 
 
 import Latex  from 'react-latex';
-import  MathJax  from 'react-mathjax2';
+
 /**
  * The game round state describes the state of the game.
  */
