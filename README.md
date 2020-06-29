@@ -1,2 +1,2 @@
-# Airtable-Quizo
+# Quizo
  Airtable Custom Block Quizo
